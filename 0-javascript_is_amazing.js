@@ -1,1 +1,3 @@
-'const myVar = "JavaScript is amazing";\nconsole.log(myVar);' 
+const myVar = "JavaScript is amazing";
+console.log(myVar);
+ 
